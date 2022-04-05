@@ -13,8 +13,8 @@
 * 希望通过这次实习接触人工智能领域前沿工作，同时深入了解算法部署、算法实用化相关的技能
 * 预计实习时间：6月下旬-9月末
 ## 教育经历
-* 东北大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 软件工程专业-研究生         
-* 沈阳师范大学&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 软件工程专业-本科  
+* 东北大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~今&emsp;&emsp;&nbsp;&nbsp;   &emsp;&emsp;&emsp; 软件工程专业-研究生         
+* 沈阳师范大学&emsp;&emsp;&emsp;2015.9~2019.7&emsp;&emsp;&emsp;&emsp; 软件工程专业-本科  
 
 ## 项目经历
 1. **目前研究课题 - 使用深度学习的方法从地震波形信号中拾取P波，S波到时时刻 - 201508-201512** 
